@@ -1,5 +1,5 @@
 ## Hi there 👋
-![javascript image](./logo-512x512)
+![javascript image](./logo-512x512.png)
 
 <!--
 **strahinjapopovic/strahinjapopovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
