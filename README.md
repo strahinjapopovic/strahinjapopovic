@@ -1,6 +1,12 @@
-## Hi there 👋
-![javascript image](./logo-512x512.png)
-
+## Hi, 👋
+## My name is Strahinja Popovic
+# MERN-Stack developer
+[<img src='./mongodb-icon.png' alt='MongoDB icon image.' height='100' />](./mongodb-icon.png)
+[<img src='./expressjs-icon.png' alt='Express.js icon image.' height='100' />](./expressjs-icon.png)
+[<img src='./react-icon-readme.png' alt='React icon image.' height='100' />](./react-icon-readme.png)
+[<img src='./node-icon-readem.png' alt='Node.js icon image.' height='100' />](./node-icon-readem.png)
+## ( MongoDB, Express.js, React, Node.js ) +
+## PostgreSQL, Apollo Server, GraphQL, Vite, PWA, ...
 <!--
 **strahinjapopovic/strahinjapopovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
