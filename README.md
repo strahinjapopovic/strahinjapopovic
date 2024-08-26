@@ -1,12 +1,11 @@
-## Hi, 👋
-## My name is Strahinja Popovic
-# MERN-Stack developer
+### Hi, 👋
+### My name is Strahinja Popovic
+### Currently, work around MERN-Stack
 [<img src='./mongodb-icon.png' alt='MongoDB icon image.' height='100' />](./mongodb-icon.png)
 [<img src='./expressjs-icon.png' alt='Express.js icon image.' height='100' />](./expressjs-icon.png)
 [<img src='./react-icon-readme.png' alt='React icon image.' height='100' />](./react-icon-readme.png)
 [<img src='./node-icon-readem.png' alt='Node.js icon image.' height='100' />](./node-icon-readem.png)
-## ( MongoDB, Express.js, React, Node.js ) +
-## PostgreSQL, Apollo Server, GraphQL, Vite, PWA, ...
+### ( MongoDB, Express.js, React, Node.js ) +
 ![mongodb version](https://img.shields.io/npm/v/mongodb?style=flat&logo=mongodb&label=MongoDB&color=green) ![express version](https://img.shields.io/npm/v/express?logo=express&label=Express.js&labelColor=grey&color=blue) ![react version](https://img.shields.io/npm/v/react?logo=react&label=React%20npm) ![node version](https://img.shields.io/npm/v/node?logo=nodedotjs&label=Node.js%20RTE%20npm) 
 
 <p align="left">
