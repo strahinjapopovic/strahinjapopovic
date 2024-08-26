@@ -6,7 +6,7 @@
 [<img src='./react-icon-readme.png' alt='React icon image.' height='100' />](./react-icon-readme.png)
 [<img src='./node-icon-readem.png' alt='Node.js icon image.' height='100' />](./node-icon-readem.png)
 ### ( MongoDB, Express.js, React, Node.js ) +
-![mongodb version](https://img.shields.io/npm/v/mongodb?style=flat&logo=mongodb&label=MongoDB&color=green) ![express version](https://img.shields.io/npm/v/express?logo=express&label=Express.js&labelColor=grey&color=blue) ![react version](https://img.shields.io/npm/v/react?logo=react&label=React%20npm) ![node version](https://img.shields.io/npm/v/node?logo=nodedotjs&label=Node.js%20RTE%20npm) 
+![mongodb version](https://img.shields.io/npm/v/mongodb?style=flat&logo=mongodb&label=MongoDB&color=blue) ![express version](https://img.shields.io/npm/v/express?logo=express&label=Express.js&labelColor=grey&color=blue) ![react version](https://img.shields.io/npm/v/react?logo=react&label=React%20npm) ![node version](https://img.shields.io/npm/v/node?logo=nodedotjs&label=Node.js%20RTE%20npm) 
 
 <p align="left">
     <a href="https://twitter.com/stanpopovic"><img alt="Twitter: stanpopovic" src="https://img.shields.io/twitter/follow/stanpopovic.svg?style=social" target="_blank" /></a>
