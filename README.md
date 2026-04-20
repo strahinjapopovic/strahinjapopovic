@@ -1,6 +1,6 @@
 ### Hi, 👋
 ### My name is Strahinja Popovic
-### Currently, work around MERN-Stack
+### I'm a full-stack developer working on the MERN stack
 [<img src='./mongodb-icon.png' alt='MongoDB icon image.' height='100' />](./mongodb-icon.png)
 [<img src='./expressjs-icon.png' alt='Express.js icon image.' height='100' />](./expressjs-icon.png)
 [<img src='./react-icon-readme.png' alt='React icon image.' height='100' />](./react-icon-readme.png)
